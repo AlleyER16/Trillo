@@ -1,3 +1,3 @@
 ## Deployed website
 
-![https://alley-trillo.netlify.app/](Go to deployed website)
+[Go to deployed project](https://alley-trillo.netlify.app)
